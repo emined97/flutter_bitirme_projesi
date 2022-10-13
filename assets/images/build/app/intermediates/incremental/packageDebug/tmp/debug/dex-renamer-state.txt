@@ -1,0 +1,4 @@
+#Mon Oct 10 15:02:54 TRT 2022
+base.0=C\:\\movies_application\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
